@@ -1,1 +1,1 @@
-Android App to show image from the FlickrAPI
+Android App to show images from the FlickrAPI
